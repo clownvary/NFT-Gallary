@@ -1,4 +1,4 @@
-# Next.js + Tailwind CSS Example
+# NFT-Gallary 
 
 NFT gallery that displays NFTs on ethereum blockchain by wallet address and smart contract address.
 
